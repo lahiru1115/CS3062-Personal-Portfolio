@@ -1,6 +1,8 @@
-# lahiru1115.github.io
+# [lahiru1115.github.io](https://lahiru1115.github.io/)
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is an assignment in the Research Methodology Course Module in the 5th Semester of KDU.
+
+> Template Name: iPortfolio <br>
+Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ <br>
+Author: BootstrapMade.com <br>
+License: https://bootstrapmade.com/license/ <br>
