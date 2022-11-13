@@ -1,6 +1,6 @@
 # [lahiru1115.github.io](https://lahiru1115.github.io/)
 
-This is an assignment in the Research Methodology Course Module in the 5th Semester of KDU.
+This is an assignment from the Research Methodology course module in the 5th semester at KDU.
 
 > Template Name: iPortfolio <br>
 Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/ <br>
