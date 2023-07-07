@@ -22,5 +22,4 @@ Please note that the iPortfolio template is subject to its own license terms. Ma
 If you have any questions or would like to get in touch with me, feel free to reach out:
 
 - Name: [Lahiru Dissanayake](https://github.com/lahiru1115)
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: [lahirudissanayake15@gmail.com](mailto:lahirudissanayake15@gmail.com)
