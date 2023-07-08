@@ -4,7 +4,7 @@ Welcome to my personal portfolio! This repository contains the code for my perso
 
 ## Website
 
-You can access my personal portfolio website through the following link: [**https://lahiru1115.github.io**](https://lahiru1115.github.io)
+You can access my personal portfolio website through the following link: [https://lahiru1115.github.io](https://lahiru1115.github.io)
 
 ## Template
 
