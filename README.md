@@ -1,21 +1,12 @@
 # Personal Portfolio
 
-Welcome to my personal portfolio! This repository contains the code for my personal portfolio website, showcasing my skills, projects, and experiences. Feel free to explore and learn more about me and my work.
-
-## Website
-
-You can access my personal portfolio website through the following link: [https://lahiru1115.github.io](https://lahiru1115.github.io)
+Welcome to my personal portfolio! This repository contains the code for my personal portfolio, showcasing my skills, projects, and experiences. Feel free to explore and learn more about me and my work.
 
 ## Template
 
-I have used the iPortfolio template for my personal portfolio website. This template is a Bootstrap-based portfolio website template provided by BootstrapMade.com. It offers a modern and professional design, making it suitable for showcasing personal and professional information.
+I have used the iPortfolio template for my personal portfolio. This template is a Bootstrap-based template provided by [BootstrapMade](https://bootstrapmade.com/). It offers a modern and professional design, making it suitable for showcasing personal and professional information.
 
-### Template Details
-
-- Template Name: iPortfolio
-- Author: BootstrapMade.com
-
-Please note that the iPortfolio template is subject to its own license terms. Make sure to review the license details provided by BootstrapMade.com if you plan to use the template.
+Please note that the iPortfolio template is subject to its own license terms. Make sure to review the license details provided by BootstrapMade if you plan to use the template.
 
 ## Contact
 
