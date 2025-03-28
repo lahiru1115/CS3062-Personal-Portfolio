@@ -6,7 +6,7 @@ Welcome to my personal portfolio! This repository contains the code for my portf
 
 I have used the iPortfolio template for my portfolio. This template is a Bootstrap-based template provided by [BootstrapMade](https://bootstrapmade.com/). It offers a modern and professional design, making it suitable for showcasing personal and professional information.
 
-Please note that the iPortfolio template is subject to its own license terms. Make sure to review the license details provided by [BootstrapMade](https://bootstrapmade.com/) if you plan to use the template.
+Please note that the iPortfolio template is subject to its own license terms. Make sure to review the license details provided by BootstrapMade if you plan to use the template.
 
 ## Contact
 
